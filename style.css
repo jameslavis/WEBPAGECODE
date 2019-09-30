@@ -1,0 +1,21 @@
+header{
+    text-align:center;  
+    border:2px solid #d40808; 
+    background-color:aqua;
+}
+nav{
+    border:2px solid red;
+    background-color:aqua;
+}
+article{
+    border:2px solid red;
+    background-color:aqua;
+}
+section{
+    border:2px solid red;
+    background-color:aqua;
+}
+footer{
+    border:2px solid red;
+    background-color:aqua;
+}
